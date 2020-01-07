@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1523620610 source:c:\users\roryg\desktop\assignment3\a2input.c
+	<stdio.h>
+	"header.h"
+
+1523960296 c:\users\roryg\desktop\assignment3\header.h
+
+1523620470 c:\users\roryg\desktop\assignment3\a2players.h
+
+1523975585 source:c:\users\roryg\desktop\assignment3\main.c
+	<stdio.h>
+	"header.h"
+
+1523972643 source:c:\users\roryg\desktop\assignment3\printboard.c
+	<stdio.h>
+	"header.h"
+
+1523975161 source:c:\users\roryg\desktop\assignment3\makemove.c
+	<stdio.h>
+	"header.h"
+
+1523975668 source:c:\users\roryg\desktop\assignment3\detmove.c
+	<stdio.h>
+	"header.h"
+
