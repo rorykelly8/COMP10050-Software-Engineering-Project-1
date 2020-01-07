@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1517575780 source:c:\users\roryg\desktop\lab2b\main.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+
+1517571012 c:\users\roryg\desktop\lab2b\sortandshuffle.h
+
+1517571334 source:c:\users\roryg\desktop\lab2b\sortandshuffle.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+
+1518177010 source:c:\users\roryg\onedrive\documents\college\comp10050 software engineering project 1\lab2b\sortandshuffle.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+
+1518445621 c:\users\roryg\onedrive\documents\college\comp10050 software engineering project 1\lab2b\sortandshuffle.h
+
+1518779611 source:c:\users\roryg\onedrive\documents\college\comp10050 software engineering project 1\lab2b\main.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+
+1519427155 source:c:\users\roryg\onedrive\documents\college\comp10050 software engineering project 1\assignment1\main.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+
+1519389052 c:\users\roryg\onedrive\documents\college\comp10050 software engineering project 1\assignment1\sortandshuffle.h
+
+1519217431 source:c:\users\roryg\onedrive\documents\college\comp10050 software engineering project 1\assignment1\sortandshuffle.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+
+1519427373 source:c:\users\roryg\onedrive\documents\college\comp10050 software engineering project 1\assignment1\insertsongs.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+
+1519427434 source:c:\users\roryg\onedrive\documents\college\comp10050 software engineering project 1\assignment1\shufflesongs.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+	<time.h>
+
+1519427412 source:c:\users\roryg\onedrive\documents\college\comp10050 software engineering project 1\assignment1\sortartists.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+
+1519427414 source:c:\users\roryg\onedrive\documents\college\comp10050 software engineering project 1\assignment1\sortsongs.c
+	<stdio.h>
+	<string.h>
+	"sortAndShuffle.h"
+
