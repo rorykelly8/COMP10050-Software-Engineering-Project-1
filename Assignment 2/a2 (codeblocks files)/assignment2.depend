@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1520939602 source:c:\users\roryg\desktop\assignment2\printboard.c
+	<stdio.h>
+	"header.h"
+
+1520965903 c:\users\roryg\desktop\assignment2\header.h
+
+1520947631 source:c:\users\roryg\desktop\assignment2\a2input.c
+	<stdio.h>
+	"header.h"
+	"a2players.h"
+
+1520947673 c:\users\roryg\desktop\assignment2\a2players.h
+
+1520965878 source:c:\users\roryg\desktop\assignment2\main.c
+	<stdio.h>
+	"header.h"
+	"a2players.h"
+
